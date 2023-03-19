@@ -3,5 +3,5 @@ Kong or Kong API Gateway is a cloud-native, platform-agnostic, scalable API Gate
 
 By providing functionality for proxying, routing, load balancing, health checking, authentication (and more), Kong serves as the central layer for orchestrating microservices or conventional API traffic with ease.
 
-# The Products List
+# The Product List
 - [Kong Gateway](./kong-gateway/kong-gateway-introducing.md)
