@@ -1,0 +1,20 @@
+# Admin API
+- Services
+- Routes
+- Upstreams
+- Targets
+- Consumers
+- Plugins
+- Certifications
+- CA Certifications
+- SNIs
+- Vaults
+- Keys
+- Licenses
+- Workspaces
+- Developers
+- Consumer Groups
+- Event Hooks
+- Keyring and Data Encryption
+- Audit Logs
+- RBAC
